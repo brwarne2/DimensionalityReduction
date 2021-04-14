@@ -1,2 +1,2 @@
 # DimensionalityReduction
-A review of common dimensionality reduction techniques
+A theoretical and practical review of common dimensionality reduction techniques. Techniques covered include Missing Value Ratio, Low Variance Filter, High Correlation Filter, Random Forest, Factor Analysis, Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Independent Component Analysis (ICA), Isometric Mapping (ISOMAP), t-Distributed Stochastic Neighbors (t-SNE), and Uniform Manifold Approximation (UMAP). 
